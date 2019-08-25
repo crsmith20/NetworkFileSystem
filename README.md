@@ -1,3 +1,7 @@
-# Project 4: Network File System
+# Network File System
 
-See: https://www.cs.usfca.edu/~mmalensek/cs326/assignments/project-4.html
+Run `make` to compile.
+
+Run `server` on the source to access the files.
+
+Run `client` on the device you want to connect to and and access the files of the server.
